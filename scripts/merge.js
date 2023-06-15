@@ -113,3 +113,5 @@ document.getElementById('merge').addEventListener('click',async function(){
     enableSizeSlider();
     enableSortingBtn();
 });
+
+// merge sort time and space complexity
